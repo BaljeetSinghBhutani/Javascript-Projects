@@ -1,2 +1,2 @@
 # Javascript-Projects
-It is a password generator App made using Html css and Javascript
+This repository contains various exciting projects which uses HTML, CSS and Javascript.
